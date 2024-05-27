@@ -33,7 +33,7 @@
     "Long_lat_GoogleMaps": "40.03080699282876, -3.604671354529675"
   },
   {
-    "Salida": 4,
+    "Salida": 1,
     "Orden": 4,
     "SalidaOrden": 14,
     "Ubi": "Borox",
@@ -44,7 +44,7 @@
     "Long_lat_GoogleMaps": "40.07202577898442, -3.7389458106780067"
   },
   {
-    "Salida": 4,
+    "Salida": 1,
     "Orden": 5,
     "SalidaOrden": 15,
     "Ubi": "Esquivias",
@@ -99,7 +99,7 @@
     "Long_lat_GoogleMaps": "39.5940015009425, -3.0415005206880665"
   },
   {
-    "Salida": 3,
+    "Salida": 2,
     "Orden": 5,
     "SalidaOrden": 25,
     "Ubi": "El Toboso",
@@ -110,7 +110,7 @@
     "Long_lat_GoogleMaps": "39.51389689797393, -2.9962987046049046"
   },
   {
-    "Salida": 3,
+    "Salida": 2,
     "Orden": 6,
     "SalidaOrden": 26,
     "Ubi": "Campo de Criptana",
