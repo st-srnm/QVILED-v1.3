@@ -1,26 +1,177 @@
-Palabra	Frecuencia	Eje_x	Eje_y	Color
-quijote	25	10	2500	quijote
-sancho	24	20	2400	sancho
-respondió	23	30	2300	respondió
-señor	22	40	2200	señor
-merced	21	50	2100	merced
-caballero	20	10	2000	caballero
-dios	19	20	1900	dios
-señora	18	30	1800	señora
-cosa	17	40	1700	cosa
-mundo	16	50	1600	mundo
-vida	15	10	1500	vida
-casa	14	20	1400	casa
-panza	13	30	1300	panza
-digo	12	40	1200	digo
-cura	11	50	1100	cura
-puesto	10	10	1000	puesto
-mano	9	20	900	mano
-amo	8	30	800	amo
-caballeros	7	40	700	caballeros
-visto	6	50	600	visto
-ojos	5	10	500	ojos
-dulcinea	4	20	400	dulcinea
-tierra	3	30	300	tierra
-quiero	2	40	200	quiero
-padre	1	50	100	padre
+[
+  {
+    "Palabra": "quijote",
+    "Frecuencia": 25,
+    "Eje_x": 10,
+    "Eje_y": 2500,
+    "Color": "quijote"
+  },
+  {
+    "Palabra": "sancho",
+    "Frecuencia": 24,
+    "Eje_x": 20,
+    "Eje_y": 2400,
+    "Color": "sancho"
+  },
+  {
+    "Palabra": "respondió",
+    "Frecuencia": 23,
+    "Eje_x": 30,
+    "Eje_y": 2300,
+    "Color": "respondió"
+  },
+  {
+    "Palabra": "señor",
+    "Frecuencia": 22,
+    "Eje_x": 40,
+    "Eje_y": 2200,
+    "Color": "señor"
+  },
+  {
+    "Palabra": "merced",
+    "Frecuencia": 21,
+    "Eje_x": 50,
+    "Eje_y": 2100,
+    "Color": "merced"
+  },
+  {
+    "Palabra": "caballero",
+    "Frecuencia": 20,
+    "Eje_x": 10,
+    "Eje_y": 2000,
+    "Color": "caballero"
+  },
+  {
+    "Palabra": "dios",
+    "Frecuencia": 19,
+    "Eje_x": 20,
+    "Eje_y": 1900,
+    "Color": "dios"
+  },
+  {
+    "Palabra": "señora",
+    "Frecuencia": 18,
+    "Eje_x": 30,
+    "Eje_y": 1800,
+    "Color": "señora"
+  },
+  {
+    "Palabra": "cosa",
+    "Frecuencia": 17,
+    "Eje_x": 40,
+    "Eje_y": 1700,
+    "Color": "cosa"
+  },
+  {
+    "Palabra": "mundo",
+    "Frecuencia": 16,
+    "Eje_x": 50,
+    "Eje_y": 1600,
+    "Color": "mundo"
+  },
+  {
+    "Palabra": "vida",
+    "Frecuencia": 15,
+    "Eje_x": 10,
+    "Eje_y": 1500,
+    "Color": "vida"
+  },
+  {
+    "Palabra": "casa",
+    "Frecuencia": 14,
+    "Eje_x": 20,
+    "Eje_y": 1400,
+    "Color": "casa"
+  },
+  {
+    "Palabra": "panza",
+    "Frecuencia": 13,
+    "Eje_x": 30,
+    "Eje_y": 1300,
+    "Color": "panza"
+  },
+  {
+    "Palabra": "digo",
+    "Frecuencia": 12,
+    "Eje_x": 40,
+    "Eje_y": 1200,
+    "Color": "digo"
+  },
+  {
+    "Palabra": "cura",
+    "Frecuencia": 11,
+    "Eje_x": 50,
+    "Eje_y": 1100,
+    "Color": "cura"
+  },
+  {
+    "Palabra": "puesto",
+    "Frecuencia": 10,
+    "Eje_x": 10,
+    "Eje_y": 1000,
+    "Color": "puesto"
+  },
+  {
+    "Palabra": "mano",
+    "Frecuencia": 9,
+    "Eje_x": 20,
+    "Eje_y": 900,
+    "Color": "mano"
+  },
+  {
+    "Palabra": "amo",
+    "Frecuencia": 8,
+    "Eje_x": 30,
+    "Eje_y": 800,
+    "Color": "amo"
+  },
+  {
+    "Palabra": "caballeros",
+    "Frecuencia": 7,
+    "Eje_x": 40,
+    "Eje_y": 700,
+    "Color": "caballeros"
+  },
+  {
+    "Palabra": "visto",
+    "Frecuencia": 6,
+    "Eje_x": 50,
+    "Eje_y": 600,
+    "Color": "visto"
+  },
+  {
+    "Palabra": "ojos",
+    "Frecuencia": 5,
+    "Eje_x": 10,
+    "Eje_y": 500,
+    "Color": "ojos"
+  },
+  {
+    "Palabra": "dulcinea",
+    "Frecuencia": 4,
+    "Eje_x": 20,
+    "Eje_y": 400,
+    "Color": "dulcinea"
+  },
+  {
+    "Palabra": "tierra",
+    "Frecuencia": 3,
+    "Eje_x": 30,
+    "Eje_y": 300,
+    "Color": "tierra"
+  },
+  {
+    "Palabra": "quiero",
+    "Frecuencia": 2,
+    "Eje_x": 40,
+    "Eje_y": 200,
+    "Color": "quiero"
+  },
+  {
+    "Palabra": "padre",
+    "Frecuencia": 1,
+    "Eje_x": 50,
+    "Eje_y": 100,
+    "Color": "padre"
+  }
+]
