@@ -1,317 +1,317 @@
 [
   {
-    "name": 1,
-    "comment": "Argamasilla de Alba, patria de D. Quixote",
-    "description": "Salida 1",
-    "x": 39.2536207,
-    "y": -3.6760974
-  },
-  {
-    "name": 2,
-    "comment": "Venta donde fue armado caballero.",
-    "description": "Salida 1",
-    "x": 39.5007087,
-    "y": -3.7775085
-  },
-  {
-    "name": 3,
-    "comment": "Aventura del mozo Andres.",
-    "description": "Salida 1",
-    "x": 39.9500716,
-    "y": -3.1931589
-  },
-  {
-    "name": 4,
-    "comment": "Aventura de los Mercaderes Toledanos de la que quedó molido á palos, conduciendole á su lugar Pedro Alonso su vecino",
-    "description": "Salida 1",
-    "x": 39.2871964,
-    "y": -3.8446598
-  },
-  {
-    "name": 5,
-    "comment": "Aventura de los Molinos de viento",
-    "description": "Salida 2",
-    "x": 39.9725466,
-    "y": -3.3395201
-  },
-  {
-    "name": 6,
-    "comment": "Aventura de los Monjes, y el Vizcaina",
-    "description": "Salida 2",
-    "x": 39.8154954,
-    "y": -3.8902941
-  },
-  {
-    "name": 7,
-    "comment": "Bosque donde durmio con los Cabreros, y asistio al entierro de Grisostomo",
-    "description": "Salida 2",
-    "x": 39.6356955,
-    "y": -3.9356547
-  },
-  {
-    "name": 8,
-    "comment": "Aventura de los Yangüeses.",
-    "description": "Salida 2",
-    "x": 39.9277334,
-    "y": -4.2167289
-  },
-  {
-    "name": 9,
-    "comment": "Venta que D. Quixote tubo por encantada, donde le curaron la Ventera y su hija, mantearon á Sancho y acaecieren otros mil sucesos.",
-    "description": "Salida 2",
-    "x": 39.0624465,
-    "y": -4.6212786
-  },
-  {
-    "name": 10,
-    "comment": "Aventura del cuerpo muerto.",
-    "description": "Salida 2",
-    "x": 39.320772,
-    "y": -4.3852913
-  },
-  {
-    "name": 11,
-    "comment": "Batalla de los dos exercitos de ovejas y carneros",
-    "description": "Salida 2",
-    "x": 38.7364223,
-    "y": -3.6211417
-  },
-  {
-    "name": 12,
-    "comment": "Aventura de les Batanes.",
-    "description": "Salida 2",
-    "x": 38.5452481,
-    "y": -3.6998042
-  },
-  {
-    "name": 13,
-    "comment": "Aventura del Barbero a quien robó el yelmo de Mambrino D. Quix",
-    "description": "Salida 2",
-    "x": 38.9946109,
-    "y": -3.1377927
-  },
-  {
-    "name": 14,
-    "comment": "Dá libertad a los Galeotes.",
-    "description": "Salida 2",
-    "x": 38.2527995,
-    "y": -3.9796465
-  },
-  {
-    "name": 15,
-    "comment": "Hace penitencia en el corazon de Sierra Morena.",
-    "description": "Salida 2",
-    "x": 38.229777,
-    "y": -3.9240066
-  },
-  {
-    "name": 16,
-    "comment": "Aventura de la hermosa Dorotea é la Doncella menesterosa.",
-    "description": "Salida 2",
-    "x": 38.8367385,
-    "y": -3.2157708
-  },
-  {
-    "name": 17,
-    "comment": "Aventura de las aldeanas, y encanto de Dulcinea.",
-    "description": "Salida 3",
-    "x": 39.6361061,
-    "y": -3.7210473
-  },
-  {
-    "name": 18,
-    "comment": "Aventura del Carro de las Cortes de la Muerte.",
-    "description": "Salida 3",
-    "x": 39.2430676,
-    "y": -3.0805102
-  },
-  {
     "name": 19,
     "comment": "Aventura del Caballero del Bosque",
     "description": "Salida 3",
-    "x": 39.7495575,
-    "y": -2.2453575
+    "x": 39.774955751874,
+    "y": -2.724535759513
   },
   {
     "name": 20,
     "comment": "Aventura de los Leones de donde tomó el nombre de EL CABALLERO DE LOS LEONES.",
     "description": "Salida 3",
-    "x": 39.3322845,
-    "y": -2.7095211
+    "x": 39.533228451648,
+    "y": -2.570952115723
   },
   {
     "name": 21,
     "comment": "Bodas de Camacho.",
     "description": "Salida 3",
-    "x": 39.0619176,
-    "y": -2.9482804
+    "x": 39.306191760829,
+    "y": -2.494828048802
   },
   {
     "name": 22,
     "comment": "Cueba de Montesinas y Lag. de Rayo",
     "description": "Salida 3",
-    "x": 39.1467277,
-    "y": -2.5183618
+    "x": 39.114672774077,
+    "y": -2.751836189798
   },
   {
     "name": 23,
     "comment": "Cueba de Montesinas y Lag. de Rayo",
     "description": "Salida 3",
-    "x": 39.4275281,
-    "y": -2.0685884
+    "x": 39.042752819286,
+    "y": -2.506858843793
   },
   {
     "name": 24,
     "comment": "Sitio donde encontró al Page y Mozo de las alabardas.",
     "description": "Salida 3",
-    "x": 39.9447266,
-    "y": -2.8772773
+    "x": 39.294472661053,
+    "y": -2.287727731541
   },
   {
     "name": 25,
     "comment": "Venta donde Maese Pedro hizo sus habilid. con los titeres y el meno adivino",
     "description": "Salida 3",
-    "x": 39.7092867,
-    "y": -2.5963399
+    "x": 39.670928674409,
+    "y": -2.259633999201
   },
   {
     "name": 26,
     "comment": "Aventura del Rebuzno.",
     "description": "Salida 3",
-    "x": 39.8219354,
-    "y": -1.9212691
+    "x": 39.882193541606,
+    "y": -1.592126918802
   },
   {
     "name": 27,
     "comment": "Mans. de D.Quixote en el campo de Cariñena.",
     "description": "Salida 3",
-    "x": 41.2171638,
-    "y": -1.0890103
+    "x": 41.321716386709,
+    "y": -1.008901035423
   },
   {
     "name": 28,
     "comment": "Aventura del Barco encantado.",
     "description": "Salida 3",
-    "x": 42.1169845,
-    "y": -1.977046
+    "x": 42.01169845298,
+    "y": -1.297704603878
   },
   {
     "name": 29,
     "comment": "Palacio de los Duques que hospedaron á D. Quixote.",
     "description": "Salida 3",
-    "x": 41.0381852,
-    "y": -1.8759086
+    "x": 41.903818520794,
+    "y": -1.287590860236
   },
   {
     "name": 30,
     "comment": "Insula Barataria",
     "description": "Salida 3",
-    "x": 41.4763105,
-    "y": -1.4598476
+    "x": 41.847631056114,
+    "y": -1.045984762112
   },
   {
     "name": 31,
     "comment": "Donde encontró los Santos de talla",
     "description": "Salida 3",
-    "x": 41.0043358,
-    "y": -1.2464721
+    "x": 41.800433585783,
+    "y": -1.124647212664
   },
   {
     "name": 32,
     "comment": "Aventura de las redes",
     "description": "Salida 3",
-    "x": 41.4199862,
-    "y": -1.2689471
+    "x": 41.741998622516,
+    "y": -1.126894711251
   },
   {
     "name": 33,
     "comment": "Donde los toros atropellaron a D. Quixote y á Sancho",
     "description": "Salida 3",
-    "x": 41.0379114,
-    "y": -1.313897
+    "x": 41.703791146533,
+    "y": -1.131389708425
   },
   {
     "name": 34,
     "comment": "Venta donde D. Juan y D. Geronimo le dixeron que Avellaneda habia escrito la historia de otro D. Quixote",
     "description": "Salida 3",
-    "x": 41.2400494,
-    "y": "-9.136233,"
-  },
-  {
-    "name": 35,
-    "comment": "Pasa el Ebro D. Quixote",
-    "description": "Salida 3",
-    "x": 41.1276745,
-    "y": "-6.008377,"
-  },
-  {
-    "name": 36,
-    "comment": "Tropieza Sancho con los pies de los ahorcados, y aventura de Roque Guinard",
-    "description": "Salida 3",
-    "x": 41.0466133,
-    "y": "17.113412,"
-  },
-  {
-    "name": 37,
-    "comment": "Llega D. Quixote á Barcelona",
-    "description": "Salida 3",
-    "x": 41.0375008,
-    "y": "18.351590,"
-  },
-  {
-    "name": 38,
-    "comment": "Vence à D Quixote el Caballero de la Blanca Luna.",
-    "description": "Salida 3",
-    "x": 41.9813133,
-    "y": "19.678709,"
-  },
-  {
-    "name": 39,
-    "comment": "El caso del desafio del gordo y el flaco",
-    "description": "Salida 3",
-    "x": 41.0601127,
-    "y": "77.6453,14"
-  },
-  {
-    "name": 40,
-    "comment": "Donde encontró D. Quixote al Lacayo Tosilos.",
-    "description": "Salida 3",
-    "x": 41.5322242,
-    "y": "-4.657141,"
+    "x": 41.624004946688,
+    "y": -0.931362334164
   },
   {
     "name": 41,
     "comment": "Resuelve hacerse pastor",
     "description": "Salida 3",
-    "x": 41.2962369,
-    "y": -1.8643973
+    "x": 41.629623693156,
+    "y": -1.086439736681
   },
   {
-    "name": 42,
-    "comment": "D. Quixote es preso, y llevado al Palacio del Duque",
+    "name": 35,
+    "comment": "Pasa el Ebro D. Quixote",
     "description": "Salida 3",
-    "x": 41.7179166,
-    "y": -1.0780466
+    "x": 41.612767453752,
+    "y": -0.620083779837
   },
   {
-    "name": 43,
-    "comment": "Azotase Sancho por el desencanto de Dulcinéa",
+    "name": 40,
+    "comment": "Donde encontró D. Quixote al Lacayo Tosilos.",
     "description": "Salida 3",
-    "x": 41.6389804,
-    "y": -1.2693577
+    "x": 41.653222428321,
+    "y": -0.406571414053
+  },
+  {
+    "name": 39,
+    "comment": "El caso del desafio del gordo y el flaco",
+    "description": "Salida 3",
+    "x": 41.50601127086,
+    "y": 0.077764531489
+  },
+  {
+    "name": 37,
+    "comment": "Llega D. Quixote á Barcelona",
+    "description": "Salida 3",
+    "x": 41.403750085142,
+    "y": 1.873515902664
+  },
+  {
+    "name": 38,
+    "comment": "Vence à D Quixote el Caballero de la Blanca Luna.",
+    "description": "Salida 3",
+    "x": 41.398131338674,
+    "y": 1.966787094033
   },
   {
     "name": 44,
     "comment": "Encuentra D. Quixote a D. Alvaro Tarfe",
     "description": "Salida 3",
-    "x": 41.2005813,
-    "y": -1.325682
+    "x": 41.52005813703,
+    "y": -1.532568206241
+  },
+  {
+    "name": 43,
+    "comment": "Azotase Sancho por el desencanto de Dulcinéa",
+    "description": "Salida 3",
+    "x": 41.663898046611,
+    "y": -1.426935772642
   },
   {
     "name": 45,
     "comment": "Acaba de azotarse Sancho: queda desencada Dulcinea, y llegan a su Lugar el Caballero y el Escudero.",
     "description": "Salida 3",
-    "x": 40.5477118,
-    "y": -2.3151289
+    "x": 40.654771180957,
+    "y": -2.0315128926
+  },
+  {
+    "name": 42,
+    "comment": "D. Quixote es preso, y llevado al Palacio del Duque",
+    "description": "Salida 3",
+    "x": 41.871791665927,
+    "y": -1.20780466039
+  },
+  {
+    "name": 1,
+    "comment": "Argamasilla de Alba, patria de D. Quixote",
+    "description": "Salida 1 de D. Quixote solo por el Campo de Montiel.",
+    "x": 39.225362079496,
+    "y": -3.0676097413
+  },
+  {
+    "name": 2,
+    "comment": "Venta donde fue armado caballero.",
+    "description": "Salida 1 de D. Quixote solo por el Campo de Montiel.",
+    "x": 39.150070876825,
+    "y": -3.277750859203
+  },
+  {
+    "name": 3,
+    "comment": "Aventura del mozo Andres.",
+    "description": "Salida 1 de D. Quixote solo por el Campo de Montiel.",
+    "x": 39.095007161439,
+    "y": -3.219315895936
+  },
+  {
+    "name": 4,
+    "comment": "Aventura de los Mercaderes Toledanos de la que quedó molido á palos, conduciendole á su lugar Pedro Alonso su vecino",
+    "description": "Salida 1 de D. Quixote solo por el Campo de Montiel.",
+    "x": 39.128719640247,
+    "y": -3.084465980704
+  },
+  {
+    "name": 5,
+    "comment": "Aventura de los Molinos de viento",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.097254660026,
+    "y": -3.433952011014
+  },
+  {
+    "name": 6,
+    "comment": "Aventura de los Monjes, y el Vizcaina",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.281549544176,
+    "y": -3.589029413531
+  },
+  {
+    "name": 7,
+    "comment": "Bosque donde durmio con los Cabreros, y asistio al entierro de Grisostomo",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.263569555479,
+    "y": -3.893565472097
+  },
+  {
+    "name": 8,
+    "comment": "Aventura de los Yangüeses.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.192773349982,
+    "y": -4.021672891567
+  },
+  {
+    "name": 9,
+    "comment": "Venta que D. Quixote tubo por encantada, donde le curaron la Ventera y su hija, mantearon á Sancho y acaecieren otros mil sucesos.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.106244654375,
+    "y": -4.062127866137
+  },
+  {
+    "name": 10,
+    "comment": "Aventura del cuerpo muerto.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 39.032077200997,
+    "y": -4.038529130971
+  },
+  {
+    "name": 11,
+    "comment": "Batalla de los dos exercitos de ovejas y carneros",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.97364223773,
+    "y": -3.962114179006
+  },
+  {
+    "name": 12,
+    "comment": "Aventura de les Batanes.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.854524812608,
+    "y": -3.969980424062
+  },
+  {
+    "name": 13,
+    "comment": "Aventura del Barbero a quien robó el yelmo de Mambrino D. Quix",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.799461097222,
+    "y": -3.813779272251
+  },
+  {
+    "name": 14,
+    "comment": "Dá libertad a los Galeotes.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.625279956713,
+    "y": -3.197964659358
+  },
+  {
+    "name": 15,
+    "comment": "Hace penitencia en el corazon de Sierra Morena.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.222977709604,
+    "y": -3.592400661412
+  },
+  {
+    "name": 16,
+    "comment": "Aventura de la hermosa Dorotea é la Doncella menesterosa.",
+    "description": "Salida 2 con su Escudero Sancho Panza per el mismo camino.",
+    "x": 38.383673858589,
+    "y": -3.321577081654
+  },
+  {
+    "name": 17,
+    "comment": "Aventura de las aldeanas, y encanto de Dulcinea.",
+    "description": "Salida 3",
+    "x": 39.56361061687,
+    "y": -3.072104738474
+  },
+  {
+    "name": 18,
+    "comment": "Aventura del Carro de las Cortes de la Muerte.",
+    "description": "Salida 3",
+    "x": 39.724306765855,
+    "y": -3.008051028739
+  },
+  {
+    "name": 36,
+    "comment": "Tropieza Sancho con los pies de los ahorcados, y aventura de Roque Guinard",
+    "description": "Salida 3",
+    "x": 41.904661332765,
+    "y": 1.711134129738
   }
 ]
