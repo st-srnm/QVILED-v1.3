@@ -1,187 +1,5 @@
 [
   {
-    "ubi": 19,
-    "comment": "Aventura del Caballero del Bosque",
-    "description": "Salida 3",
-    "x": -2.7245358,
-    "y": 39.7749558
-  },
-  {
-    "ubi": 20,
-    "comment": "Aventura de los Leones de donde tomó el nombre de EL CABALLERO DE LOS LEONES.",
-    "description": "Salida 3",
-    "x": -2.5709521,
-    "y": 39.5332285
-  },
-  {
-    "ubi": 21,
-    "comment": "Bodas de Camacho.",
-    "description": "Salida 3",
-    "x": -2.494828,
-    "y": 39.3061918
-  },
-  {
-    "ubi": 22,
-    "comment": "Cueba de Montesinas y Lag. de Rayo",
-    "description": "Salida 3",
-    "x": -2.7518362,
-    "y": 39.1146728
-  },
-  {
-    "ubi": 23,
-    "comment": "Cueba de Montesinas y Lag. de Rayo",
-    "description": "Salida 3",
-    "x": -2.5068588,
-    "y": 39.0427528
-  },
-  {
-    "ubi": 24,
-    "comment": "Sitio donde encontró al Page y Mozo de las alabardas.",
-    "description": "Salida 3",
-    "x": -2.2877277,
-    "y": 39.2944727
-  },
-  {
-    "ubi": 25,
-    "comment": "Venta donde Maese Pedro hizo sus habilid. con los titeres y el meno adivino",
-    "description": "Salida 3",
-    "x": -2.259634,
-    "y": 39.6709287
-  },
-  {
-    "ubi": 26,
-    "comment": "Aventura del Rebuzno.",
-    "description": "Salida 3",
-    "x": -1.5921269,
-    "y": 39.8821935
-  },
-  {
-    "ubi": 27,
-    "comment": "Mans. de D.Quixote en el campo de Cariñena.",
-    "description": "Salida 3",
-    "x": -1.008901,
-    "y": 41.3217164
-  },
-  {
-    "ubi": 28,
-    "comment": "Aventura del Barco encantado.",
-    "description": "Salida 3",
-    "x": -1.2977046,
-    "y": 42.0116985
-  },
-  {
-    "ubi": 29,
-    "comment": "Palacio de los Duques que hospedaron á D. Quixote.",
-    "description": "Salida 3",
-    "x": -1.2875909,
-    "y": 41.9038185
-  },
-  {
-    "ubi": 30,
-    "comment": "Insula Barataria",
-    "description": "Salida 3",
-    "x": -1.0459848,
-    "y": 41.8476311
-  },
-  {
-    "ubi": 31,
-    "comment": "Donde encontró los Santos de talla",
-    "description": "Salida 3",
-    "x": -1.1246472,
-    "y": 41.8004336
-  },
-  {
-    "ubi": 32,
-    "comment": "Aventura de las redes",
-    "description": "Salida 3",
-    "x": -1.1268947,
-    "y": 41.7419986
-  },
-  {
-    "ubi": 33,
-    "comment": "Donde los toros atropellaron a D. Quixote y á Sancho",
-    "description": "Salida 3",
-    "x": -1.1313897,
-    "y": 41.7037911
-  },
-  {
-    "ubi": 34,
-    "comment": "Venta donde D. Juan y D. Geronimo le dixeron que Avellaneda habia escrito la historia de otro D. Quixote",
-    "description": "Salida 3",
-    "x": -0.9313623,
-    "y": 41.6240049
-  },
-  {
-    "ubi": 41,
-    "comment": "Resuelve hacerse pastor",
-    "description": "Salida 3",
-    "x": -1.0864397,
-    "y": 41.6296237
-  },
-  {
-    "ubi": 35,
-    "comment": "Pasa el Ebro D. Quixote",
-    "description": "Salida 3",
-    "x": -0.6200838,
-    "y": 41.6127675
-  },
-  {
-    "ubi": 40,
-    "comment": "Donde encontró D. Quixote al Lacayo Tosilos.",
-    "description": "Salida 3",
-    "x": -0.4065714,
-    "y": 41.6532224
-  },
-  {
-    "ubi": 39,
-    "comment": "El caso del desafio del gordo y el flaco",
-    "description": "Salida 3",
-    "x": 0.0777645,
-    "y": 41.5060113
-  },
-  {
-    "ubi": 37,
-    "comment": "Llega D. Quixote á Barcelona",
-    "description": "Salida 3",
-    "x": 1.8735159,
-    "y": 41.4037501
-  },
-  {
-    "ubi": 38,
-    "comment": "Vence à D Quixote el Caballero de la Blanca Luna.",
-    "description": "Salida 3",
-    "x": 1.9667871,
-    "y": 41.3981313
-  },
-  {
-    "ubi": 44,
-    "comment": "Encuentra D. Quixote a D. Alvaro Tarfe",
-    "description": "Salida 3",
-    "x": -1.5325682,
-    "y": 41.5200581
-  },
-  {
-    "ubi": 43,
-    "comment": "Azotase Sancho por el desencanto de Dulcinéa",
-    "description": "Salida 3",
-    "x": -1.4269358,
-    "y": 41.663898
-  },
-  {
-    "ubi": 45,
-    "comment": "Acaba de azotarse Sancho: queda desencada Dulcinea, y llegan a su Lugar el Caballero y el Escudero.",
-    "description": "Salida 3",
-    "x": -2.0315129,
-    "y": 40.6547712
-  },
-  {
-    "ubi": 42,
-    "comment": "D. Quixote es preso, y llevado al Palacio del Duque",
-    "description": "Salida 3",
-    "x": -1.2078047,
-    "y": 41.8717917
-  },
-  {
     "ubi": 1,
     "comment": "Argamasilla de Alba, patria de D. Quixote",
     "description": "Salida 1 de D. Quixote solo por el Campo de Montiel.",
@@ -308,10 +126,192 @@
     "y": 39.7243068
   },
   {
+    "ubi": 19,
+    "comment": "Aventura del Caballero del Bosque",
+    "description": "Salida 3",
+    "x": -2.7245358,
+    "y": 39.7749558
+  },
+  {
+    "ubi": 20,
+    "comment": "Aventura de los Leones de donde tomó el nombre de EL CABALLERO DE LOS LEONES.",
+    "description": "Salida 3",
+    "x": -2.5709521,
+    "y": 39.5332285
+  },
+  {
+    "ubi": 21,
+    "comment": "Bodas de Camacho.",
+    "description": "Salida 3",
+    "x": -2.494828,
+    "y": 39.3061918
+  },
+  {
+    "ubi": 22,
+    "comment": "Cueba de Montesinas y Lag. de Rayo",
+    "description": "Salida 3",
+    "x": -2.7518362,
+    "y": 39.1146728
+  },
+  {
+    "ubi": 23,
+    "comment": "Cueba de Montesinas y Lag. de Rayo",
+    "description": "Salida 3",
+    "x": -2.5068588,
+    "y": 39.0427528
+  },
+  {
+    "ubi": 24,
+    "comment": "Sitio donde encontró al Page y Mozo de las alabardas.",
+    "description": "Salida 3",
+    "x": -2.2877277,
+    "y": 39.2944727
+  },
+  {
+    "ubi": 25,
+    "comment": "Venta donde Maese Pedro hizo sus habilid. con los titeres y el meno adivino",
+    "description": "Salida 3",
+    "x": -2.259634,
+    "y": 39.6709287
+  },
+  {
+    "ubi": 26,
+    "comment": "Aventura del Rebuzno.",
+    "description": "Salida 3",
+    "x": -1.5921269,
+    "y": 39.8821935
+  },
+  {
+    "ubi": 27,
+    "comment": "Mans. de D.Quixote en el campo de Cariñena.",
+    "description": "Salida 3",
+    "x": -1.008901,
+    "y": 41.3217164
+  },
+  {
+    "ubi": 28,
+    "comment": "Aventura del Barco encantado.",
+    "description": "Salida 3",
+    "x": -1.2977046,
+    "y": 42.0116985
+  },
+  {
+    "ubi": 29,
+    "comment": "Palacio de los Duques que hospedaron á D. Quixote.",
+    "description": "Salida 3",
+    "x": -1.2875909,
+    "y": 41.9038185
+  },
+  {
+    "ubi": 30,
+    "comment": "Insula Barataria",
+    "description": "Salida 3",
+    "x": -1.0459848,
+    "y": 41.8476311
+  },
+  {
+    "ubi": 31,
+    "comment": "Donde encontró los Santos de talla",
+    "description": "Salida 3",
+    "x": -1.1246472,
+    "y": 41.8004336
+  },
+  {
+    "ubi": 32,
+    "comment": "Aventura de las redes",
+    "description": "Salida 3",
+    "x": -1.1268947,
+    "y": 41.7419986
+  },
+  {
+    "ubi": 33,
+    "comment": "Donde los toros atropellaron a D. Quixote y á Sancho",
+    "description": "Salida 3",
+    "x": -1.1313897,
+    "y": 41.7037911
+  },
+  {
+    "ubi": 34,
+    "comment": "Venta donde D. Juan y D. Geronimo le dixeron que Avellaneda habia escrito la historia de otro D. Quixote",
+    "description": "Salida 3",
+    "x": -0.9313623,
+    "y": 41.6240049
+  },
+  {
+    "ubi": 35,
+    "comment": "Pasa el Ebro D. Quixote",
+    "description": "Salida 3",
+    "x": -0.6200838,
+    "y": 41.6127675
+  },
+  {
     "ubi": 36,
     "comment": "Tropieza Sancho con los pies de los ahorcados, y aventura de Roque Guinard",
     "description": "Salida 3",
     "x": 1.7111341,
     "y": 41.9046613
+  },
+  {
+    "ubi": 37,
+    "comment": "Llega D. Quixote á Barcelona",
+    "description": "Salida 3",
+    "x": 1.8735159,
+    "y": 41.4037501
+  },
+  {
+    "ubi": 38,
+    "comment": "Vence à D Quixote el Caballero de la Blanca Luna.",
+    "description": "Salida 3",
+    "x": 1.9667871,
+    "y": 41.3981313
+  },
+  {
+    "ubi": 39,
+    "comment": "El caso del desafio del gordo y el flaco",
+    "description": "Salida 3",
+    "x": 0.0777645,
+    "y": 41.5060113
+  },
+  {
+    "ubi": 40,
+    "comment": "Donde encontró D. Quixote al Lacayo Tosilos.",
+    "description": "Salida 3",
+    "x": -0.4065714,
+    "y": 41.6532224
+  },
+  {
+    "ubi": 41,
+    "comment": "Resuelve hacerse pastor",
+    "description": "Salida 3",
+    "x": -1.0864397,
+    "y": 41.6296237
+  },
+  {
+    "ubi": 42,
+    "comment": "D. Quixote es preso, y llevado al Palacio del Duque",
+    "description": "Salida 3",
+    "x": -1.2078047,
+    "y": 41.8717917
+  },
+  {
+    "ubi": 43,
+    "comment": "Azotase Sancho por el desencanto de Dulcinéa",
+    "description": "Salida 3",
+    "x": -1.4269358,
+    "y": 41.663898
+  },
+  {
+    "ubi": 44,
+    "comment": "Encuentra D. Quixote a D. Alvaro Tarfe",
+    "description": "Salida 3",
+    "x": -1.5325682,
+    "y": 41.5200581
+  },
+  {
+    "ubi": 45,
+    "comment": "Acaba de azotarse Sancho: queda desencada Dulcinea, y llegan a su Lugar el Caballero y el Escudero.",
+    "description": "Salida 3",
+    "x": -2.0315129,
+    "y": 40.6547712
   }
 ]
