@@ -1,70 +1,70 @@
 [
   {
     "Palabra": "quijote",
-    "Frecuencia": 10,
+    "Frecuencia": 2175,
     "Eje_X": 55,
     "Eje_Y": 55,
     "Color": "red"
   },
   {
     "Palabra": "sancho",
-    "Frecuencia": 9,
+    "Frecuencia": 2148,
     "Eje_X": 70,
     "Eje_Y": 55,
     "Color": "teal"
   },
   {
     "Palabra": "respondió",
-    "Frecuencia": 8,
+    "Frecuencia": 1063,
     "Eje_X": 60,
     "Eje_Y": 45,
     "Color": "black"
   },
   {
     "Palabra": "señor",
-    "Frecuencia": 7,
+    "Frecuencia": 1063,
     "Eje_X": 58,
     "Eje_Y": 40,
     "Color": "green"
   },
   {
     "Palabra": "merced",
-    "Frecuencia": 6,
+    "Frecuencia": 900,
     "Eje_X": 70,
     "Eje_Y": 40,
     "Color": "red"
   },
   {
     "Palabra": "caballero",
-    "Frecuencia": 5,
+    "Frecuencia": 661,
     "Eje_X": 60,
     "Eje_Y": 50,
     "Color": "blue"
   },
   {
     "Palabra": "dios",
-    "Frecuencia": 4,
+    "Frecuencia": 531,
     "Eje_X": 70,
     "Eje_Y": 45,
     "Color": "black"
   },
   {
     "Palabra": "señora",
-    "Frecuencia": 3,
+    "Frecuencia": 516,
     "Eje_X": 80,
     "Eje_Y": 50,
     "Color": "green"
   },
   {
     "Palabra": "cosa",
-    "Frecuencia": 2,
+    "Frecuencia": 447,
     "Eje_X": 90,
     "Eje_Y": 40,
     "Color": "yellow"
   },
   {
     "Palabra": "mundo",
-    "Frecuencia": 1,
+    "Frecuencia": 394,
     "Eje_X": 70,
     "Eje_Y": 39,
     "Color": "white"
