@@ -1,177 +1,72 @@
 [
   {
     "Palabra": "quijote",
-    "Frecuencia": 2175,
-    "Eje_x": 100,
-    "Eje_y": 2500,
-    "Color": "quijote"
+    "Frecuencia": 10,
+    "Eje_X": 55,
+    "Eje_Y": 55,
+    "Color": "red"
   },
   {
     "Palabra": "sancho",
-    "Frecuencia": 2148,
-    "Eje_x": 100,
-    "Eje_y": 2400,
-    "Color": "sancho"
+    "Frecuencia": 9,
+    "Eje_X": 70,
+    "Eje_Y": 55,
+    "Color": "teal"
   },
   {
     "Palabra": "respondió",
-    "Frecuencia": 1063,
-    "Eje_x": 100,
-    "Eje_y": 2300,
-    "Color": "respondió"
+    "Frecuencia": 8,
+    "Eje_X": 60,
+    "Eje_Y": 45,
+    "Color": "black"
   },
   {
     "Palabra": "señor",
-    "Frecuencia": 1063,
-    "Eje_x": 100,
-    "Eje_y": 2200,
-    "Color": "señor"
+    "Frecuencia": 7,
+    "Eje_X": 58,
+    "Eje_Y": 40,
+    "Color": "green"
   },
   {
     "Palabra": "merced",
-    "Frecuencia": 900,
-    "Eje_x": 100,
-    "Eje_y": 2100,
-    "Color": "merced"
+    "Frecuencia": 6,
+    "Eje_X": 70,
+    "Eje_Y": 40,
+    "Color": "red"
   },
   {
     "Palabra": "caballero",
-    "Frecuencia": 661,
-    "Eje_x": 200,
-    "Eje_y": 2000,
-    "Color": "caballero"
+    "Frecuencia": 5,
+    "Eje_X": 60,
+    "Eje_Y": 50,
+    "Color": "blue"
   },
   {
     "Palabra": "dios",
-    "Frecuencia": 531,
-    "Eje_x": 200,
-    "Eje_y": 1900,
-    "Color": "dios"
+    "Frecuencia": 4,
+    "Eje_X": 70,
+    "Eje_Y": 45,
+    "Color": "black"
   },
   {
     "Palabra": "señora",
-    "Frecuencia": 516,
-    "Eje_x": 200,
-    "Eje_y": 1800,
-    "Color": "señora"
+    "Frecuencia": 3,
+    "Eje_X": 80,
+    "Eje_Y": 50,
+    "Color": "green"
   },
   {
     "Palabra": "cosa",
-    "Frecuencia": 447,
-    "Eje_x": 200,
-    "Eje_y": 1700,
-    "Color": "cosa"
+    "Frecuencia": 2,
+    "Eje_X": 90,
+    "Eje_Y": 40,
+    "Color": "yellow"
   },
   {
     "Palabra": "mundo",
-    "Frecuencia": 394,
-    "Eje_x": 200,
-    "Eje_y": 1600,
-    "Color": "mundo"
-  },
-  {
-    "Palabra": "vida",
-    "Frecuencia": 356,
-    "Eje_x": 300,
-    "Eje_y": 1500,
-    "Color": "vida"
-  },
-  {
-    "Palabra": "casa",
-    "Frecuencia": 334,
-    "Eje_x": 300,
-    "Eje_y": 1400,
-    "Color": "casa"
-  },
-  {
-    "Palabra": "panza",
-    "Frecuencia": 329,
-    "Eje_x": 300,
-    "Eje_y": 1300,
-    "Color": "panza"
-  },
-  {
-    "Palabra": "digo",
-    "Frecuencia": 323,
-    "Eje_x": 300,
-    "Eje_y": 1200,
-    "Color": "digo"
-  },
-  {
-    "Palabra": "cura",
-    "Frecuencia": 313,
-    "Eje_x": 300,
-    "Eje_y": 1100,
-    "Color": "cura"
-  },
-  {
-    "Palabra": "puesto",
-    "Frecuencia": 307,
-    "Eje_x": 400,
-    "Eje_y": 1000,
-    "Color": "puesto"
-  },
-  {
-    "Palabra": "mano",
-    "Frecuencia": 304,
-    "Eje_x": 400,
-    "Eje_y": 900,
-    "Color": "mano"
-  },
-  {
-    "Palabra": "amo",
-    "Frecuencia": 297,
-    "Eje_x": 400,
-    "Eje_y": 800,
-    "Color": "amo"
-  },
-  {
-    "Palabra": "caballeros",
-    "Frecuencia": 293,
-    "Eje_x": 400,
-    "Eje_y": 700,
-    "Color": "caballeros"
-  },
-  {
-    "Palabra": "visto",
-    "Frecuencia": 285,
-    "Eje_x": 400,
-    "Eje_y": 600,
-    "Color": "visto"
-  },
-  {
-    "Palabra": "ojos",
-    "Frecuencia": 285,
-    "Eje_x": 500,
-    "Eje_y": 500,
-    "Color": "ojos"
-  },
-  {
-    "Palabra": "dulcinea",
-    "Frecuencia": 282,
-    "Eje_x": 500,
-    "Eje_y": 400,
-    "Color": "dulcinea"
-  },
-  {
-    "Palabra": "tierra",
-    "Frecuencia": 274,
-    "Eje_x": 500,
-    "Eje_y": 300,
-    "Color": "tierra"
-  },
-  {
-    "Palabra": "quiero",
-    "Frecuencia": 261,
-    "Eje_x": 500,
-    "Eje_y": 200,
-    "Color": "quiero"
-  },
-  {
-    "Palabra": "padre",
-    "Frecuencia": 259,
-    "Eje_x": 500,
-    "Eje_y": 100,
-    "Color": "padre"
+    "Frecuencia": 1,
+    "Eje_X": 70,
+    "Eje_Y": 39,
+    "Color": "white"
   }
 ]
